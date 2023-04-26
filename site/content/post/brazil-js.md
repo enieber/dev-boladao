@@ -4,6 +4,7 @@ date: 2016-02-09T00:00:00.000Z
 description: No ano de 2015 tive a oportunidade de participar do maior evento de
   javascript do mundo, um evento recheado de tecnologias, café, cerveja e
   chocolate.
+image: img/uol-host-marca-presenca-na-braziljs-conf-1472063717446_600x320.jpg
 ---
 
 No ano de 2015 tive a oportunidade de participar do maior evento de javascript do mundo, um evento recheado de tecnologias, café, cerveja e chocolate. Se não bastasse tudo isto ainda teve pessoas pouco conhecidas como, Substack, Brandan Eich, Laurie Voss,Christian Heilmann, e mais um monte de caras feras.
